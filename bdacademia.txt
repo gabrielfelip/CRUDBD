@@ -1,0 +1,36 @@
+CONSULTA INDIVIDUAL
+
+USE academia;
+
+SELECT a.nome, hp.data_peso, hp.peso
+FROM aluno a
+JOIN historico_peso hp ON a.cpf = hp.cpf_aluno
+WHERE a.cpf = '44455566677'
+ORDER BY hp.data_peso;
+
+
+BANCO DE DADOS
+
+CREATE DATABASE academia;
+
+USE academia;
+
+CREATE TABLE aluno (
+    cpf VARCHAR(11) PRIMARY KEY,
+    nome VARCHAR(100) NOT NULL,
+    data_nascimento DATE NOT NULL,
+    peso DECIMAL(5,2),
+    altura DECIMAL(3,2)
+);
+
+CREATE TABLE historico_peso (
+    id INT AUTO_INCREMENT PRIMARY KEY,
+    cpf_aluno VARCHAR(11),
+    data_peso DATE NOT NULL,
+    peso DECIMAL(5,2) NOT NULL,
+    FOREIGN KEY (cpf_aluno) REFERENCES aluno(cpf) ON DELETE CASCADE
+);
+
+
+
+

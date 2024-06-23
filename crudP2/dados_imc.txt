@@ -1,0 +1,14 @@
+Data: 06/06/2024 19:59:28 | CPF: 44669808884 | Nome: gabriel silva | IMC: 21,68 | Resultado: Peso normal
+Data: 06/06/2024 20:04:48 | CPF: 44669808884 | Nome: gabriel silva | IMC: 24,69 | Resultado: Peso normal
+Data: 06/06/2024 - 20:12:44 | CPF: 44669808884 | Nome: gabriel silva | IMC: 24,75 | Resultado: Peso normal
+Data: 06/06/2024  20:42:26 | CPF: 44669808884 | Nome: gabriel silva | IMC: 24,69 | Resultado: Peso normal
+Data: 06/06/2024  20:52:53 | CPF: 44669808884 | Nome: gabriel silva | IMC: 38,10 | Resultado: Obesidade grau II
+Data: 06/06/2024  20:55:27 | CPF: 44669808884 | Nome: gabriel silva | IMC: 38,10 | Resultado: Obesidade grau II
+Data: 06/06/2024  20:57:53 | CPF: 44669808884 | Nome: gabriel silva | IMC: 28,40 | Resultado: Sobrepeso
+Data: 06/06/2024  21:02:28 | CPF: 44669808884 | Nome: gabriel silva | IMC: 24,41 | Resultado: Peso normal
+
+Data: 14/06/2024  15:13:06 | CPF: 12345678912 | Nome: GABRIEL FELIPE CORREA | IMC: 26,63 | Resultado: Sobrepeso
+Data: 21/06/2024  20:41:10 | CPF: 44669808885 | Nome: gabriel | IMC: 23,40 | Resultado: Peso normal
+Data: 21/06/2024  20:55:07 | CPF: 44455566677 | Nome: bruna | IMC: 23,59 | Resultado: Peso normal
+Data: 21/06/2024  20:55:33 | CPF: 44455566677 | Nome: bruna | IMC: 23,03 | Resultado: Peso normal
+Data: 23/06/2024  20:31:13 | CPF: 44669808886 | Nome: lucas | IMC: 24,07 | Resultado: Peso normal
